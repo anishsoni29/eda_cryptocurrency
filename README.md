@@ -1,5 +1,5 @@
 
-# ₿ Cryptocurrency Data Analysis App 
+# 💰 Cryptocurrency Data Analysis App 
 
 ## Overview
 This app performs exploratory data analysis of cryptocurrencies by scraping data from CoinMarketCap. It retrieves cryptocurrency prices for the top 100 cryptocurrencies and provides insights into market trends, price movements, and more.
